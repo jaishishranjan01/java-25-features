@@ -4,4 +4,5 @@
 
 void main() {
     IO.println("Without Main");
+    IO.println(getClass().getName());
 }
